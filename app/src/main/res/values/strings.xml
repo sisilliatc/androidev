@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">androiddev</string>
+
+    <string name="order">Order</string>
+    <string name="profil">Profil</string>
+    <string name="home">Home</string>
+    <string name="help">Help</string>
+    <string name="fragment_order">Fragment Order</string>
+    <string name="fragment_profil">Fragment Profil</string>
+    <string name="fragment_home">Fragment Home</string>
+
+    <string name="fragment_help">Fragment Help</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

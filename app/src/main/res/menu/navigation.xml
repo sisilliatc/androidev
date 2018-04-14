@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigasi_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigasi_order"
+        android:icon="@drawable/ic_reorder_black_24dp"
+        android:title="Book" />
+    <item
+        android:id="@+id/navigasi_help"
+        android:icon="@drawable/ic_help_outline_black_24dp"
+        android:title="Music" />
+    <item
+        android:id="@+id/navigasi_person"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Video" />
+</menu>
