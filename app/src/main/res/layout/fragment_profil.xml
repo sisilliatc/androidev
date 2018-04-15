@@ -22,5 +22,11 @@
             android:fitsSystemWindows="true"></android.support.design.widget.CollapsingToolbarLayout>
         
     </android.support.design.widget.AppBarLayout>
+    
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v4.widget.NestedScrollView>
 
 </FrameLayout>
